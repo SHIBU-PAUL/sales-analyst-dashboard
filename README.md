@@ -17,3 +17,4 @@ The dashboard provides clear insights that can help improve sales strategy and i
 
 ## Author
 Shibu Paul
+<img width="1272" height="798" alt="Screenshot 2026-01-31 234137" src="https://github.com/user-attachments/assets/963cad19-ec4b-46b7-8efb-4eaa7d79c480" />
